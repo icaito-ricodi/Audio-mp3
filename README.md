@@ -2,6 +2,10 @@
 
 Esta es una sencilla aplicación en Python que convierte un texto dado en un archivo de audio (formato MP3). Utiliza la librería `gTTS` (Google Text-to-Speech) para realizar la síntesis de voz.
 
+## Adjunto archivo
+
+C:\Users\PC\Downloads\Todas Descargas\python
+
 ## Cómo usar
 
 1.  Asegúrate de tener Python instalado en tu sistema.
