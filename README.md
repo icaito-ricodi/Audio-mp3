@@ -4,6 +4,7 @@ Esta es una sencilla aplicación en Python que convierte un texto dado en un arc
 
 ## Adjunto archivo
 
+https://forms.gle/BDHXrtLWut9Uy8Qe8
 C:\Users\PC\Downloads\Todas Descargas\python
 
 ## Cómo usar
