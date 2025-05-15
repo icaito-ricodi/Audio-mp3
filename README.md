@@ -7,7 +7,7 @@ Esta es una sencilla aplicación en Python que convierte un texto dado en un arc
 
 ## Adjunto archivo
 
-Copiar Ctrl+C y Pega en tu Navegador C:\Users\PC\Downloads\Todas Descargas\python\texto.mp3
+Copiar Ctrl+C y Pega Ctrl+V en tu Navegador C:\Users\PC\Downloads\Todas Descargas\python\texto.mp3
 
 ## Cómo usar
 
