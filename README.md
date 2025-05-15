@@ -1,13 +1,13 @@
 # Text-to-Speech App
 
-C:\Users\PC\Downloads\Todas Descargas\python\texto.mp3
+https://form-icaito.onrender.com
+https://forms.gle/BDHXrtLWut9Uy8Qe8
 
 Esta es una sencilla aplicación en Python que convierte un texto dado en un archivo de audio (formato MP3). Utiliza la librería `gTTS` (Google Text-to-Speech) para realizar la síntesis de voz.
 
 ## Adjunto archivo
 
-https://forms.gle/BDHXrtLWut9Uy8Qe8
-C:\Users\PC\Downloads\Todas Descargas\python
+Copiar Ctrl+C y Pega en tu Navegador C:\Users\PC\Downloads\Todas Descargas\python\texto.mp3
 
 ## Cómo usar
 
